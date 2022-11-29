@@ -61,8 +61,8 @@ $ npm run test:cov
 
 
 ## Pasos
--INSTALACION: npm install -g @nestjs/cli
--CREAR PROYECTO: nest new nombredelproyectoquequiero
--Cd ./Memuevoalacarpeta
--nest generate controller tasks
--http://localhost:3000/tasks con metodos 
+- INSTALACION: npm install -g @nestjs/cli
+- CREAR PROYECTO: nest new nombredelproyectoquequiero
+- Cd ./Memuevoalacarpeta
+- nest generate controller tasks
+- http://localhost:3000/tasks con metodos usando postman
